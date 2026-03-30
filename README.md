@@ -32,6 +32,3 @@ cloud-init.yaml – Script to configure the VM webserver
 Sazia
 Terraform Webserver Project
 
-
-- A professional layout
-Just tell me and I’ll prepare the content for you.
