@@ -1,0 +1,7 @@
+#cloud-config
+package_update: true
+packages:
+  - apache2
+runcmd:
+  - systemctl enable apache2
+  - systemctl start apache2
